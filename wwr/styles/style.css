@@ -1,0 +1,84 @@
+<body>
+    <div id="content">
+        <header>
+          #content {
+            max-width: 1600px;
+            margin: 0 auto;}
+          nav a
+          #hero-msg h1, #hero-msg h4
+            .button-box
+            main section
+          <section class="rapids-card">
+    <img class="card-img" src="images/rapids.jpg" alt="rafting boat">
+    <img class="icon" src="images/oars.png" alt="oars icon">
+      .icon {
+    width: 80px;
+}
+    <h2>Rapids</h2>
+</section>
+</header>
+<div id="background">
+#background {
+    height: 725px;
+}</div> 
+<img class="mountains" src="images/mountains.jpg" alt="Misty mountains">
+<section class="msg">
+    <h2>More Than Just The Thrill</h2>
+    <p>Enjoy the breathtaking scenery. From valleys, meadows, canyons, and high peaks; it's way more than just the rapids. It's a great way to get away from it all and relax amongst all the beauty of the great outdoors. </p>
+    <a class='join' href="rivers.html">Join Us</a>
+</section>
+body {
+    background-color: #A18C36; 
+    color: #103E81;
+}
+header {
+    background-color: #34098C;
+    color: #39FEBE;
+}
+nav a:hover {
+    background-color: #013F71;
+    color: #B80289;
+}
+.book, .join {
+    background-color: #fcfbfb; 
+    color: #A7B125;
+}
+.book:hover, .join:hover {
+    background-color: #8C4B0E;
+    color: #9B153C;
+}
+#background {
+    background-color: #D05D63;
+    color: #D302EC;
+}
+.msg {
+    background-color: #662DEF;
+    color: #42627C;
+}
+footer {
+    background-color: #52193A;
+    color: #1CCF27;
+}
+nav a {
+    text-align: center;
+    color: #29CD30;
+    text-decoration: none;
+}    
+.book, .join {
+    text-align: center;
+    color: #913CE8;
+    text-decoration: none;
+}    
+footer a {
+    text-align: center;
+    color: #8E3E0A;
+    text-decoration: none;
+}    
+footer p {
+    font-size: 1.2em;
+}    
+footer p a:hover {
+    text-decoration: underline;
+}     
+    </div>
+</body>
