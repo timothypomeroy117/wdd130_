@@ -1,0 +1,89 @@
+body {
+    background-color: #A18C36;
+    color: #103E81;
+}
+
+#content {
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #34098C;
+    color: #39FEBE;
+}
+
+nav a {
+    text-align: center;
+    color: #29CD30;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: #013F71;
+    color: #B80289;
+}
+
+.book,
+.join {
+    background-color: #fcfbfb;
+    color: #A7B125;
+}
+
+.book:hover,
+.join:hover {
+    background-color: #8C4B0E;
+    color: #9B153C;
+}
+
+#background {
+    height: 725px;
+    background-color: #D05D63;
+    color: #D302EC;
+}
+
+.mistymountains {
+    width: 100%;
+}
+
+.msg {
+    background-color: #662DEF;
+    color: #42627C;
+}
+
+footer {
+    background-color: #52193A;
+    color: #1CCF27;
+}
+
+footer a {
+    text-align: center;
+    color: #8E3E0A;
+    text-decoration: none;
+}
+
+footer p {
+    font-size: 1.2em;
+}
+
+footer p a:hover {
+    text-decoration: underline;
+}
+
+.rapids-card {
+    text-align: center;
+}
+
+.rapids-card .card-img {
+    width: 100%;
+}
+
+.rapids-card .icon {
+    width: 80px;
+}
+
+.join {
+    text-align: center;
+    color: #913CE8;
+    text-decoration: none;
+}
