@@ -1,15 +1,15 @@
+
 /* if you are using any Google fonts change the font names below to your fonts. 
 Any spaces in your font name should be replaced with a +. 
 Fonts are separated by a & */
-@import url('https://coolors.co/457c61-726c6c-f3f6ff-eb5258-60768f');
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+French+Canon&family=Lato:ital,wght@0,400;0,700;1,400&display=swap');
 
 :root {
   /* change the values below to your colors from your palette */
-  --primary-color: #60768F;
-  --secondary-color: #F3F6FF;
-  --accent1-color: #EB5258;
-  --accent2-color: #457C61;  
-  --accent3-color: #726C6C;
+  --primary-color: #396E94   ;
+  --secondary-color: #E7C24F ;
+  --accent1-color: #A42212;
+  --accent2-color: white;
 
   /* change the values below to your chosen font(s) */
   --heading-font: "IM Fell French Canon";
@@ -31,60 +31,10 @@ Fonts are separated by a & */
 /*  Look around below...but DON'T CHANGE ANYTHING! */
 
 body {
-  background-color: #fcfbfb;
-  font-family: Raleway, Arial, sans-serif;
-  font-size: 22px;
-  margin: 0;
-  padding: 0;
-}
-h2 {
-  margin: 0;
-}
-#logo_link {
-  text-decoration: none;
-  color: #fcfbfb;
-  text-align: center;
-  padding-top: 5px;;
-}
-nav a {
-  text-decoration: none;
-  color: #fcfbfb;
-  text-align: center;
-  padding: 35px;
-}
-.book, .join {
-  text-decoration: none;
-  color: #fcfbfb;
-  text-align: center;
-  padding: 15px 30px;
-}
-.icon {
-  text-decoration: none;
-  color: #fcfbfb;
-  text-align: center;
-  padding-top: 10px;
-}
-.msg {
-  text-decoration: none;
-  color: #fcfbfb;
-  text-align: center;
-  padding: 35px;
-}
-.msg p {
-  text-decoration: none;
-  color: #fcfbfb;
-  text-align: center;
-  padding-bottom: 15px;
-}
-footer {
-  text-decoration: none;
-  color: #fcfbfb;
-  text-align: center;
-  padding: 25px 50px;
-}
-footer .social img {
-  text-decoration: none;
-  color: #fcfbfb;
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 4em;
+  font-size: 18px;
   text-align: center;
 }
 img {
