@@ -1,0 +1,38 @@
+header {
+    background-color: rgb(98, 98, 98);
+    color: white;
+    display: grid;
+    grid-template-columns: 100px auto;
+    padding: 20px;
+}
+nav a {
+    justify-content: space-around;
+    text-align: center;
+    color: #fff;
+    text-decoration: none;
+    padding: 15px;  
+}
+footer {
+    background-color: rgb(98, 98, 98);
+    color: #ecf0f1;
+    padding: 25px;
+    margin-top: 100px;
+}
+.comforttext {
+    width: 38%;
+    padding: 5px;
+    background-color: rgb(190, 190, 190);
+}
+.logo {
+    width: 100px;
+}
+.hometext {
+    width: 38%;
+    padding: 5px;
+    background-color: rgb(190, 190, 190);
+}
+.costtext {
+    width: 68%;
+    padding: 5px;
+    background-color: rgb(190, 190, 190);
+}

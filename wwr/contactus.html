@@ -9,6 +9,16 @@
 </head>
 <body>
 <div id="feedback"></div>
+<button onclick="house()">contact us!</button>
+<p id="necessary"></p>
+<script>
+    function house() {
+let text;
+let name = prompt("Email please");
+text = "Hello " + name + " ! Thank you for your message. We will get back with you as soon as possible!";
+document.getElementById("necessary").innerHTML = text;
+alert(text)}
+</script>
 <script>
     // get the feedback div element so we can do something with it.
     const feedbackElement = document.getElementById('feedback');
